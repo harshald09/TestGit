@@ -1,1 +1,6 @@
 This is my first text file on Git
+
+Test
+Test
+Test
+Test
